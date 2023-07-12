@@ -1,0 +1,14 @@
+# Geçici dosyalar
+temp.txt
+cache/
+
+# Derleme çıktıları
+build/
+*.exe
+
+# Gizli dosyalar
+.env
+.credentials/
+Hatice.jpeg
+furkan.jpeg
+melihsb1.jpeg
